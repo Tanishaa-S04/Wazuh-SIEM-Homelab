@@ -11,7 +11,7 @@ In this lab, I built a **SIEM and XDR environment using Wazuh** from scratch to 
 
 ## 🧠 Architecture
 
-![Architecture](architecture/architecture.png)
+![Architecture](architecture/Architecture.png)
 
 **Lab setup:**
 - **Wazuh Manager**: Ubuntu VM running on VirtualBox
