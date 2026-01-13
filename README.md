@@ -43,7 +43,6 @@ In this lab, I built a **SIEM and XDR environment using Wazuh** from scratch to 
 ## 🚨 File Integrity Monitoring (FIM)
 
 ### Alert Analysis (Discover View)
-![FIM Alert](screenshots/fim-alert-discover.png)
 
 This view shows raw security events generated when monitored files are modified or deleted on the endpoint.
 
