@@ -1,5 +1,5 @@
 # Wazuh-SIEM-Homelab
-Home Lab Series – Lab 2: Wazuh SIEM/XDR home lab with Ubuntu, VirtualBox, and macOS agent, focused on File Integrity Monitoring and security event analysis.
+A home lab deployment of a Wazuh SIEM/XDR platform for endpoint monitoring and File Integrity Monitoring (FIM) using Ubuntu and macOS.
 
 # 🔐 Home Lab Series | Lab 2: SIEM & XDR with Wazuh
 
